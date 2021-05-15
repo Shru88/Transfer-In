@@ -1,7 +1,7 @@
 # Transfer-In
 User can deposit or transfer gold and tokenize it.
 
-## How to do it
+## How to do transfer or deposit
 1. Register a Gold cache account and complete verification
 2. Create a deposit request and get Order Id
 3. Deposit or transfer the physical gold at selected partner vault
