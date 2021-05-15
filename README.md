@@ -60,6 +60,8 @@ As an existing Gold Bullion customer, I want to transfer physical gold to Cache,
   - User receives equivalent CGT to the physical gold deposited in CACHE
 
 ## Future Features
+- User gets an option to select Transfer or Deposit Gold
+-
 
 ## Dependencies
 
