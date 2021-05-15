@@ -55,7 +55,10 @@ As an existing Gold Bullion customer, I want to transfer physical gold to Cache,
 ## Dependencies
 
 
-## What the page looks like
+## What the page looks like now
+
+![Transfer In_Screenshot](https://user-images.githubusercontent.com/44263375/118362180-094d5f00-b5ac-11eb-99ef-9aa0a11d81f7.JPG)
+
 
 
  
