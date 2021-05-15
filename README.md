@@ -9,6 +9,7 @@ User can deposit or transfer gold and tokenize it.
 5. CGT equivalent to amount of gold are send to depositor's registered Ethereum address
 
 ## User Flow Diagram
+![Transfer In - Flow Diagram](https://user-images.githubusercontent.com/44263375/118361101-73afd080-b5a7-11eb-9448-7c16deefccf2.png)
 
 
 ## User Stories
