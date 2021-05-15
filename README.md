@@ -14,7 +14,9 @@ User can deposit or transfer gold and tokenize it.
 
 ## User Stories
 Epic 01       : Deposit and Tokenize Physical gold
+
 User Story 01 : As a potential depositor, I want to deposit physical gold, so that CGT equivalent to amount of gold is deposited to registered Ethereum address.
+
 User Story 02 : As an existing Gold Bullion customer, I want to transfer physical gold to Cache, so that CGT equivalent to amount of gold is deposited to registered Ethereum address.
 
 ### User Story 01
@@ -60,8 +62,9 @@ As an existing Gold Bullion customer, I want to transfer physical gold to Cache,
   - User receives equivalent CGT to the physical gold deposited in CACHE
 
 ## Future Features
-- User gets an option to select Transfer or Deposit Gold
--
+- User gets an option to select Transfer or Deposit Gold in Transfer In page
+- Order confirmation mail - make changes in content
+- Email notification on CGT Transfer
 
 ## Dependencies
 
